@@ -1,6 +1,6 @@
 ### Name : HASMITHA V NANCY
 ### Register No : 24004046
-# EXPERIMENT NO 7: JK FLIPFLOP
+# EXPERIMENT NO 7: JK FLIP-FLOP
 
 **AIM:** 
 
@@ -50,4 +50,5 @@ Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves
 ![waveform 5](https://github.com/user-attachments/assets/3b507889-8156-425f-8ce3-876fd1bb1818)
 
 **RESULTS**
+
 Implemented  JK flipflop using verilog and validating their functionality using their functional tables.
