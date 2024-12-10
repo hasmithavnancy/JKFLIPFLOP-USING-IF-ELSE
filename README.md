@@ -38,8 +38,13 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
+
+
 **PROGRAM**
+
+
 ![image](https://github.com/user-attachments/assets/1c5d401f-2b29-4255-a1f5-4b6fecb81b10)
+
 
 
 
