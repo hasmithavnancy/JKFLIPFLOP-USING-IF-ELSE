@@ -44,9 +44,13 @@ Implementing JK_flipflop in Verilog HDL (Hardware Description Language) involves
 
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![image](https://github.com/user-attachments/assets/71ec5772-0a89-40f3-ae8f-c6959b5cccb4)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
 ![waveform 5](https://github.com/user-attachments/assets/3b507889-8156-425f-8ce3-876fd1bb1818)
 
 **RESULTS**
